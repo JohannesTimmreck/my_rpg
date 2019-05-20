@@ -1,0 +1,27 @@
+3700 2000
+AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBX
+IOO           X                      GX
+IO            X                      GX
+I             XO                    OGX
+I             XXXXXXXXX       XXXXXXXGX
+I             XO                    OGX
+I             X                      GX
+I             X                      GX
+I             XO                    OGX
+IXXXXXXXX     XXXXXXXXX       XXXXXXXGX
+I             XO                    OGX
+I             X                      GX
+I             X                      GX
+I       X     XO                    OGX
+I       X     XXXXXXXXX       XXXXXXXGX
+Q       XXX  XX                      GX
+D       X                            GX
+D       X                            GX
+D       X                            GX
+R       X                            GX
+UHHHHHHHHHHHHHHHHHHHHHHHNDDPHHHHHHHHHWX
+I                       X  X         GX
+2
+room_configs/config_room4 3
+room_configs/config_room7 3
+0

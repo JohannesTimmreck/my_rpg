@@ -1,0 +1,29 @@
+1850 4000
+AFFFFFFFJDDKFFFFFJDDDDKFFFFFFFFFFFFFFSF
+I                X               X   GX
+I                X                X  GX
+I                X                 X G 
+IXXXXXXXXXXXXXX  X                  XG 
+I                X          X        L 
+I                X          X        D 
+I                X          X        D 
+I  XXXXXXXXXXXXXXX          X        D 
+I                X          X        M 
+I                X          X        G 
+I                X          X        L 
+IXXXXXXXXXXXXXX  X           X       D 
+I                X            X      D 
+I                X             X     D 
+I                X              X    M 
+I  XXXXXXXXXXXXXXX               X   G 
+I                                 X  G 
+I                                  X G 
+I                                   XG 
+EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTH
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+4
+room_configs/config_room9 2
+room_configs/config_room9 4
+room_configs/config_room11 3
+room_configs/config_room11 3
+0

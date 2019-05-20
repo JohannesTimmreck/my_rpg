@@ -1,0 +1,28 @@
+5550 4000
+AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBX
+IO                                  OGX
+I                                    GX
+I                                    GX
+IXXXXXXXXXX                          GX
+Q         XXXXXXXXXXXXXXXX           GX
+D                        X           GX
+D                        X           GX
+D                        X           GX
+R         XXXX                       GX
+IXXXXXXXXXXXXX       O               GX
+Q         XXXX                       GX
+D                        X           GX
+D                        X           GX
+D                        X           GX
+R         XXXXXXXXXXXXXXXX           GX
+IXXXXXXXXXX                          GX
+I                                    GX
+I                                    GX
+IO                                  OGX
+EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2
+room_configs/config_room11 3
+room_configs/config_room11 3
+1
+2 1 0 0 0 1 10 1 0 1

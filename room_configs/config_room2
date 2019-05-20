@@ -1,0 +1,27 @@
+3700 0
+AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBX
+I               X      X             GX
+I               X      X             GX
+I               XXXXXXXX             GX
+I            X            X          GX
+Q            X            X          GX
+D            X            X          GX
+D            X  XXXXXXXXXXX          GX
+D            X  XXXXOOOOOOX          GX
+R            X            X         OGX
+Q            X            X         OGX
+D            X            X         OGX
+D            X  XXXXOOOOOOX          GX
+D            X  XXXXXXXXXXX          GX
+R            X            X          GX
+I            X            X          GX
+I            X            X          GX
+I                XXXXXX              GX
+I                X    X              GX
+I                X    X              GX
+EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2
+room_configs/config_startroom 3
+room_configs/config_startroom 3
+0
